@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#center {
+	height: 100vh;
+	border: 5px solid red;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+}
+
+body {
+	background-color: black;
+	color: white;
+	font-size: 75px;
+}
+
+#time {
+	font-size: 250px;
+}
